@@ -1,0 +1,39 @@
+#heading{
+    color:deeppink;
+    text-decoration: underline;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 50px;
+}
+#instruction{
+    color:darkcyan;
+    font-size: 25px;
+
+}
+
+#b1,#b2,#b3,#b4,#b5,#b6,#b7,#b8,#b9{
+    padding: 8px;
+    width: 80px;
+    height: 60px;
+    border-style:ridge;
+    background-color: rgb(177, 200, 226);
+    text-align: center;
+    font-size: 50px;
+    
+}
+#result{
+    padding: 5px;
+    width: 180px;
+    text-align: center;
+
+}
+
+#reset{
+    color:rgb(13, 109, 96);
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#main{
+    text-align: center;
+    background-color: cornsilk;
+}
